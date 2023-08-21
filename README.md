@@ -17,7 +17,7 @@ This project demonstrates a pattern recognition process using image processing t
 
 ## Introduction
 
-This project showcases the process of pattern recognition using image processing techniques. Each step in the process contributes to accurately identifying and classifying objects within an image. The project covers noise reduction, histogram analysis, thresholding, connectivity analysis, and pattern recognition.
+This project showcases the process of pattern recognition using image processing techniques. Each step in the process contributes to accurately identifying and classifying objects within an image and remove salt and pepper noises within an image by using the OpenCV library and do JPG image convolution with Gaussian Filter .
 
 ## Getting Started
 
